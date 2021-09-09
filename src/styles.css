@@ -1,1 +1,45 @@
 /* You can add global styles to this file, and also import other style files */
+
+Skip to content Search… All gists Back to GitHub @diefeuer @Klerith Klerith/estilos-basicos.css Created 9 months ago • Report abuse 11 4 Code Revisions 1 Stars 11 Forks 4 <script src="https://gist.github.com/Klerith/3ddee04a27c09be05e888d5d4ac1d09f.js"></script>Estilos básicos para la introducción de Angular estilos-basicos.css * {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 200;
+}
+
+html,
+body {
+    background: white;
+    margin: 20px;
+    color: #3e4144;
+    -webkit-font-smoothing: antialiased;
+}
+
+dd {
+    font-weight: bold;
+}
+
+button {
+    background-color: black;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px 10px;
+}
+
+button:hover {
+    background-color: #3e4144;
+}
+
+button:focus {
+    outline: none;
+}
+
+.p-1 {
+    padding: 1px;
+}
+
+@jocaagura jocaagura commented on 11 Jul:) @xavierms xavierms commented on 16 Jul 👍 @josmig josmig commented on 23 Jul great @hiramDavis hiramDavis commented on 29 Jul awesome :) @vilapur vilapur commented 16 days ago gracias :) @JOSEPHBR16 JOSEPHBR16 commented 3 days ago:3 @diefeuer Leave a comment No se eligió archivo Attach files by dragging & dropping,
+selecting or pasting them. © 2021 GitHub,
+Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About

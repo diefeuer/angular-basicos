@@ -1,0 +1,5 @@
+{
+    "angular.log": "normal",
+    "angular.trace.server": "messages",
+    "angular.view-engine": true
+}
